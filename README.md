@@ -21,3 +21,8 @@ The Dice Roller app is an interactive Android application that allows users to r
 • XML Layouts
 
 • Android Studio
+
+## Screenshots
+<p>
+  <img src="(https://github.com/user-attachments/assets/7038c532-c655-4218-9cd4-cfbccad489d0)" alt="Image 1" width="20%""/>
+</p>
